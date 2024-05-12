@@ -1,0 +1,11 @@
+slide_id,process,status,seg_level,sthresh,mthresh,close,use_otsu,keep_ids,exclude_ids,a_t,a_h,max_n_holes,vis_level,line_thickness,use_padding,contour_fn
+test1.svs,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+test10.svs,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+test2.svs,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+test3.svs,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+test4.svs,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+test5.svs,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+test6.svs,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+test7.svs,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+test8.svs,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+test9.svs,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
