@@ -11,6 +11,7 @@
 
 可视化的结果图和表格位于[visualization](ling/zuling-wsi/visualization)
 
+数据来源和实验设计：https://docs.google.com/document/d/1xJ8Id0aV32qHE9sK6rlsf8O-uYzqAIXQjORK7Gs2NxM/edit
 
 
 ## MMpretrain
